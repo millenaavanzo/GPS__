@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">fiap_1tdsg_gps_permissao_mapa</string>
+    <string name="action_settings">Settings</string>
+    <string name="sem_gps_nao_rola">Sem GPS não rola</string>
+    <string name="busca"> tubaina bar </string>
+    <string name="permission">Conceder </string>
+    <string name="active">Ativar GPS </string>
+    <string name="disabled">Desativar GPS </string>
+    <string name="start">Iniciar percurso </string>
+    <string name="finish">Terminar percurso </string>
+    <string name="what">O que deseja procurar? </string>
+</resources>
