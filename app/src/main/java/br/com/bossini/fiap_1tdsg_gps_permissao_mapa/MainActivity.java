@@ -11,13 +11,10 @@ import android.net.Uri;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.design.widget.FloatingActionButton;
-import android.support.design.widget.Snackbar;
 import android.support.v4.app.ActivityCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
-import android.view.Menu;
-import android.view.MenuItem;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -148,7 +145,7 @@ public class MainActivity extends AppCompatActivity {
             }
             else{
                 Toast.makeText(this,
-                        getString(R.string.sem_gps_nao_rola),
+                        getString(R.string.nogps),
                         Toast.LENGTH_SHORT).show();
             }
         }

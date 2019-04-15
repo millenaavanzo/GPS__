@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">fiap_1tdsg_gps_permissao_mapa</string>
+    <string name="permission">Conceder permiso de GPS</string>
+    <string name="active">Activar GPS</string>
+    <string name="disabled">Desactivar GPS</string>
+    <string name="start">Inicio</string>
+    <string name="time">"Tiempo Pasado "</string>
+    <string name="finish">Terminar Recorrido</string>
+    <string name="what">¿Qué quieres encontrar?</string>
+</resources>
